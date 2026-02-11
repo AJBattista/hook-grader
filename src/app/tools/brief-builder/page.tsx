@@ -1,4 +1,4 @@
-// Test to trigger deploy
+// Redeploy trigger
 export default function BriefBuilderPage() {
   return (
     <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-6 py-12">
